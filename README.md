@@ -1,6 +1,10 @@
 # BRAC University 
 
+
+
 This repository contains the detailed resources and assignments for each semester of our Computer Science and Engineering program.
+
+Courses that have projects that can be located by searching my repository using the course code(e.g., CSE110).
 
 ---
 
