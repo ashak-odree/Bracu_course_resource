@@ -9,7 +9,7 @@ Courses that have projects that can be located by searching my repository using 
 ---
 
 ## 1st Semester:	<a href="https://www.playbook.com/s/bracu-semester/vSNRJmzbbEkwTGzrf5ThT5HS">Click me</a>  
-* CSE110
+* CSE110  +    <a href="https://github.com/ashak-odree/CSE110">Lab</a>
 * ENG091
 * MAT110
 
@@ -17,7 +17,7 @@ Courses that have projects that can be located by searching my repository using 
 ---
 
 ## 2nd Semester:	<a href="https://www.playbook.com/s/bracu-semester/ntUX138pvmGDaQo3e8PnL2s5">Click me</a>
-* CSE111
+* CSE111    +    <a href="https://github.com/ashak-odree/CSE111">Lab</a>
 * PHY111
 
 
@@ -40,14 +40,14 @@ Courses that have projects that can be located by searching my repository using 
 ---
 
 ## 5th Semester:	<a href="https://www.playbook.com/s/bracu-semester/QgFsUCFqXc9X2Y4HfFX52YmA">Click me</a>
-* CSE220
+* CSE220  +    <a href="https://github.com/ashak-odree/CSE220">Lab</a>
 * MAT215
 * MAT216
 
 ---
 
 ## 6th Semester:	<a href="https://www.playbook.com/s/bracu-semester/dxyXrVqnR514n7P1e7AErvqk">Click me</a>
-* CSE221 
+* CSE221   +    <a href="https://github.com/ashak-odree/CSE221">Lab</a>
 * CSE230 
 * CSE260 
 * CHE110 
@@ -57,7 +57,7 @@ Courses that have projects that can be located by searching my repository using 
 ## 7th Semester:	<a href="https://www.playbook.com/s/bracu-semester/nhMsvm8puob3pybNmSAFh3E5">Click me</a>
 * CSE250
 * CSE320
-* CSE330
+* CSE330   +    <a href="https://github.com/ashak-odree/CSE330">Lab</a>
 * BIO101
 
 ---
@@ -65,47 +65,47 @@ Courses that have projects that can be located by searching my repository using 
 ## 8th Semester:  	<a href="https://www.playbook.com/s/bracu-semester/j69v9aTLUcgYGjDvA1mMeCTH">Click me</a>
 * CSE251
 * CSE331
-* CSE370
+* CSE370   +    <a href="https://github.com/ashak-odree/CSE370-Project">Project</a>
 
 
 ---
 
 ## 9th Semester:	<a href="https://www.playbook.com/s/bracu-semester/XbVm1MADyi5U6ffDvC5ajPpM">Click me</a>
 * CSE350
-* CSE423
-* CSE471
+* CSE423  +    <a href="https://github.com/ashak-odree/CSE423">Lab + Project</a>
+* CSE471  +    <a href="https://github.com/ashak-odree/CSE471_Project">Project</a>
 * ANT101
 
 ---
 
 ## 10th Semester:	<a href="https://www.playbook.com/s/bracu-semester/EE9QRDLDw56yaqikQwn3H9hk">Click me</a>
-* CSE422
-* CSE461
+* CSE422   +    <a href="https://github.com/ashak-odree/CSE422-lab">Lab</a>   +    <a href="https://github.com/ashak-odree/CSE422_Project">Project</a>
+* CSE461   +    <a href="https://github.com/ashak-odree/CSE461_lab">Lab</a>
 * CSE340
-* CSE460
+* CSE460   +    <a href="https://github.com/ashak-odree/CSE460_LAB">Lab</a>
 
 ---
 
 ## 11th Semester:	<a href="https://www.playbook.com/s/bracu-semester/szbhfHf9h8WP63q7GUevJYzZ">Click me</a> 
-* CSE424
-* CSE341
-* CSE470
-* CSE420
+* CSE424   +    <a href="https://github.com/ashak-odree/CSE424">Lab</a>
+* CSE341   +    <a href="https://github.com/ashak-odree/CSE341_Lab">Lab</a>    +    <a href="https://github.com/ashak-odree/CSE341-project">Project</a>
+* CSE470  +    <a href="https://github.com/ashak-odree/CSE470-Project">Lab</a>
+* CSE420   +    <a href="https://github.com/ashak-odree/CSE420_Lab">Lab</a>
 
 
 ---
 
 ## 12th Semester:	<a href="https://www.playbook.com/s/bracu-semester/bdb5ginsMCBE6xKvf8RCZxuu">Click me</a>
-* CSE321
+* CSE321    +    <a href="https://github.com/ashak-odree/CSE321_LAB">Lab</a>
 * HUM101
 * PSY101
-* CSE360
+* CSE360   +    <a href="https://github.com/ashak-odree/CSE360_Project">Project </a>
 
 ---
 
 
 ## Course resources:	<a href="https://terabox.com/s/1hZV_FtB5lCt42sWuxtN1Iw">Click me</a>
-* CSE421
+* CSE421    +    <a href="https://github.com/ashak-odree/CSE421_LAB">Lab</a>
 * CHN101
 
 
